@@ -1,0 +1,22 @@
+body{
+    height:  95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: rgb(0, 0, 0);
+    color: white;
+}
+.name{
+    color: white;
+    font-size: 50px;
+}
+.contatos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.github{
+    margin-right: 15px;
+}
